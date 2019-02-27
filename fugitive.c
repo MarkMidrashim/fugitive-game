@@ -119,13 +119,13 @@ bool finish() {
 
 int main() {
 	// Select map
-	char* fileLevel = "C:\\Users\\Wilson\\Documents\\FugitiveGame\\map.txt";
+	char* fileLevel = "map.txt";
 
 	loadMap(&map, fileLevel);
 	findHero(&map, &hero, HERO);
 	
 	do {
-		system("cls");
+		system("clear");
 		showMap(&map);
 		
 		char command;
