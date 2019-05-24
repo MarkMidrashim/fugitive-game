@@ -10,5 +10,3 @@ _Jogo Pacman em C._
 
 ### Intuíto do Projeto:
 O projeto tem o objetivo de apresentar um jogo de forca com reinicio e apresentação de estatísticas no fim do jogo. Além de exibir o conhecimento no desenvolvimento em C.
-
-#### Observações
